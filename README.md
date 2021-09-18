@@ -1,6 +1,6 @@
 <h2>Projeto com Spring Boot - Microserviço Scheduled Task</h2>
 
-Neste projeto vamos desenvolver um pequeno microserviços com o Spring Boot utizando as anotações @Component e @Scheduled.
+Neste projeto foi desenvolvido um pequeno microserviço com o Spring Boot utizando as anotações @Component e @Scheduled.
 
 Foi desenvolvidos e abordados os seguintes tópicos:
 
