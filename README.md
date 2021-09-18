@@ -2,7 +2,7 @@
 
 Neste projeto vamos desenvolver um pequeno microserviços com o Spring Boot utizando as anotações @Component e @Scheduled.
 
-Serão desenvolvidos e abordados os seguintes tópicos:
+Foi desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Banco de dados H2
