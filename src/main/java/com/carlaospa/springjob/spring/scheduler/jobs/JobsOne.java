@@ -14,7 +14,7 @@ public class JobsOne {
     @Autowired
     private SettingRepository settingRepository;
 
-    @Scheduled(cron = "*/10 * * * * *")
+    @Scheduled(cron = "*/2 * * * * *")
     public void execute(){
 
         Setting setting = new Setting(Boolean.FALSE, new Date());
